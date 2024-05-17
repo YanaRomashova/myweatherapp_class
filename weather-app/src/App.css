@@ -1,8 +1,12 @@
 #root {
-  max-width: 1280px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  background-color: navajowhite;
+  padding: 16px;
+  border-radius: 26px; /* corrected typo in border-radius */
+  color: white;
+  font-family: Arial, sans-serif; /* Added font family */
 }
 
 .logo {
